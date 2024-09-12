@@ -1,0 +1,5 @@
+# Ignore the MinIO data directory
+minio_data/
+
+# Ignore the environment configuration file
+config.env
